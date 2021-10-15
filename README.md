@@ -23,7 +23,7 @@ const CONFIG = {
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Khooi yêu athu nhiều nhiều 😘😘',
     messDesc: 'Tối nay ngủ ngon nhé công chúa.',
-    btnAccept: 'iuuuu khooi nhat nka :333',
+    btnAccept: 'iuuuu khooi nhat nka :3333',
     messLink: 'https://www.facebook.com/profile.php?id=100073533376934' //link mess của các bạn. VD: https://www.facebook.com/profile.php?id=100073533376934
 }
 ```
